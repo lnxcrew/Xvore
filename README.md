@@ -6,4 +6,13 @@
 - Aplikasi Tunggal yang tidak akan di update
 
 # XVore Shell Backdoor v1.1
-> Silahkan Download pada file diatas
+
+
+![alt text](https://i.imgur.com/am2LzC5.png)
+
+----------------------------
+
+Contact me :
+- Gmail : adiwijaya989898@gmail.com
+- Facebook : facebook.com/adi.wj0
+
