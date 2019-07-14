@@ -6,6 +6,7 @@
 - Aplikasi Tunggal yang tidak akan di update
 
 # XVore Shell Backdoor v1.1
+- Silahkan Download pada file Downloads.txt
 
 
 ![alt text](https://i.imgur.com/am2LzC5.png)
