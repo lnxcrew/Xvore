@@ -19,4 +19,5 @@ _Perhatikan kembali!_
 
 --------------
 > Author : Pku.LNX#
+
 > Team : (C) 2012 LNX#.CREW
