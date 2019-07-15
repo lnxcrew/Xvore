@@ -4,7 +4,7 @@
  
  Saya tidak bertanggung Jawab jika Hal lain terjadi pada anda karena saya memberikan ini tidak untuk ditanggung akan tetapi mengikuti aturan Hal Peretasan yang sangat kental dengan ilegalisasi.Mohon Pergunakn dengan Sebijak-bijak mungkin
  
-**(C) LNX#.CREW 2012 - INDONESIAN BLACKHAT**
+**(C) 2012 LNX#.CREW - INDONESIAN BLACKHAT**
 
 ----------------------------
 
