@@ -10,6 +10,8 @@
 
 
 ![alt text](https://i.imgur.com/am2LzC5.png)
+![alt-text](https://raw.githubusercontent.com/PkuLNX/Xvore/master/screenshot/3.jpg)
+![alt-text](https://raw.githubusercontent.com/PkuLNX/Xvore/master/screenshot/4.jpg)
 
 ----------------------------
 
