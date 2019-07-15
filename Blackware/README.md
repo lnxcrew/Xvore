@@ -15,4 +15,5 @@ Berikut Fitur Penyerangan Blackware :
 
 --------------
 Author : Pku.LNX#
+
 Team : (C) 2012 LNX#.CREW
