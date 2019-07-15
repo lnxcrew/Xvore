@@ -5,12 +5,11 @@
  Saya tidak bertanggung Jawab jika Hal lain terjadi pada anda karena saya memberikan ini tidak untuk ditanggung akan tetapi mengikuti aturan Hal Peretasan yang sangat kental dengan ilegalisasi.Mohon Pergunakn dengan Sebijak-bijak mungkin
  
 **(C) LNX#.CREW 2012 - INDONESIAN BLACKHAT**
- 
+
+# XVore - Shell Backdoor Tester v1.1
  - Pengujian dan Percobaan Shell Backdoor tanpa harus upload ke website/localhost
 - Tersedia 32 Shell Backdoor yang siap dipakai
 - Aplikasi Tunggal yang tidak akan di update
-
-# XVore - Shell Backdoor Tester v1.1
 - Silahkan Download pada file Downloads.txt
 
 
