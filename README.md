@@ -1,11 +1,14 @@
-# Xvore
- XVore adalah Program Hacking yang mengikuti alur Open Source
+# XVore
+ XVore adalah Program Hacking ilegal dibawah aturan Author.
+ Disini anda bisa mencoba semua Program Hacking sesuai kebutuhan Peretasan Anda, Walaupun ini masih sedikit tapi bisa memberi apa yang saya bisa.Mengikuti Alur Open-Source membuat XVore menjadi fungsional dalam melakukan Hacking.
+ 
+ 
  
  - Pengujian dan Percobaan Shell Backdoor tanpa harus upload ke website/localhost
 - Tersedia 32 Shell Backdoor yang siap dipakai
 - Aplikasi Tunggal yang tidak akan di update
 
-# XVore Shell Backdoor v1.1
+# XVore - Shell Backdoor Tester v1.1
 - Silahkan Download pada file Downloads.txt
 
 
