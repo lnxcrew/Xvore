@@ -9,4 +9,10 @@ Berikut Fitur Penyerangan Blackware :
 - Blackware menggunakan program Instalasi seperti anda menginstall sebuah aplikasi yang mengikuti arahan extract,output folder,run files dll.
 - Blackware sudah diperkakas oleh program Installer dan RAR yang menjaga stabilitas Social Engineering anda.
 
-> SCREENSHOT :
+# SCREENSHOT :
+![alt-text](https://raw.githubusercontent.com/PkuLNX/Xvore/master/Blackware/screenshot/1.jpg)
+![alt-text](https://raw.githubusercontent.com/PkuLNX/Xvore/master/Blackware/screenshot/2.jpg)
+
+--------------
+Author : Pku.LNX#
+Team : (C) 2012 LNX#.CREW
