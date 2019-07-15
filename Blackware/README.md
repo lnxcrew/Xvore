@@ -18,6 +18,5 @@ _Perhatikan kembali!_
 ![alt-text](https://raw.githubusercontent.com/PkuLNX/Xvore/master/Blackware/screenshot/2.jpg)
 
 --------------
-Author : Pku.LNX#
-
-Team : (C) 2012 LNX#.CREW
+> Author : Pku.LNX#
+> Team : (C) 2012 LNX#.CREW
