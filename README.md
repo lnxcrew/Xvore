@@ -2,7 +2,7 @@
  **XVore** adalah Program Hacking ilegal dibawah kendali Author.
  Disini anda bisa mencoba semua Program Hacking sesuai kebutuhan Peretasan Anda, Walaupun ini masih sedikit tapi bisa memberi apa yang saya bisa.Mengikuti Alur Open-Source membuat XVore menjadi fungsional dalam melakukan Hacking.
  
- Saya tidak bertanggung Jawab jika Hal lain terjadi pada anda karena saya memberikan ini tidak untuk ditanggung akan tetapi mengikuti aturan Hal Peretasan yang sangat kental dengan ilegalisasi.Mohon Pergunakn dengan Sebijak-bijak mungkin
+ Saya tidak bertanggung Jawab jika Hal lain terjadi pada anda karena saya memberikan ini tidak untuk ditanggung akan tetapi mengikuti aturan Hal Peretasan yang sangat kental dengan ilegalisasi.Mohon Pergunakan dengan Sebijak-bijak mungkin
  
 **(C) 2012 LNX#.CREW - INDONESIAN BLACKHAT**
 
