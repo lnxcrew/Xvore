@@ -9,9 +9,9 @@ Berikut Fitur Penyerangan Blackware :
 - Blackware menggunakan program Instalasi seperti anda menginstall sebuah aplikasi yang mengikuti arahan extract,output folder,run files dll.
 - Blackware sudah diperkakas oleh program Installer dan RAR yang menjaga stabilitas Social Engineering anda.
 
-Perhatikan kembali!
+_Perhatikan kembali!_
 
-jika anda ingin testing Virus ini, Gunakanlah pada Virtualbox atau PC tumbalan anda ..
+> **jika anda ingin testing Virus ini, Gunakanlah pada Virtualbox atau PC tumbalan anda ..**
 
 # SCREENSHOT :
 ![alt-text](https://raw.githubusercontent.com/PkuLNX/Xvore/master/Blackware/screenshot/1.jpg)
