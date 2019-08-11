@@ -1,7 +1,8 @@
 # XVore Apps Design
 
-Visual Basic .NET Framework - UI/UX Design. Files Download on List.no password encrypt but just demo :)
-if you want to some tutorial you can contact me on my facebook.
+Visual Basic .NET Framework - Desain UI / UX. File Unduh di List. tidak ada enkripsi kata sandi tetapi ini hanya Demo
+itu semua adalah Splashscreen untuk Aplikasi Desktop, dan Edit di Photoshop Portable CS6. Tonton video di Daftar diatas, 
+jika Anda ingin beberapa tutorial Anda dapat menghubungi saya di facebook saya.
 
 Facebook : facebook.com/adi.wj0
 
