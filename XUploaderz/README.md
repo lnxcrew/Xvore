@@ -8,3 +8,10 @@ Peringatan Keras bagi anda yang merubah tersebut!
 Ambil Files tersebut pada Daftar List Downloads.xv
 
 * Copy Link -> Paste ke Browser -> Download !
+
+------------------------
+
+XUploaderz by :
+
+* Pku.LNX#
+* Team on Pekanbaru Blackhat
