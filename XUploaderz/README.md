@@ -5,6 +5,6 @@ Program ini adalah berjenis Open-Source. anda bebas membangun,memperbaiki,meruba
 tidak mengizinkan anda untuk mengubah mulai dari Nama Author,Copyright & Company.
 Peringatan Keras bagi anda yang merubah tersebut!
 
-Ambil Files tersebut pada Daftar List Downloads.txt
+Ambil Files tersebut pada Daftar List Downloads.xv
 
 * Copy Link -> Paste ke Browser -> Download !
