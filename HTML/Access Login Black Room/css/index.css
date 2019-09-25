@@ -1,0 +1,173 @@
+/* --------------------------------------------------------------- */
+body {
+		background: #060606;
+		background-repeat: no-repeat;
+		cursor: default;
+		transition: 1s all;
+}
+html {
+		color: white;
+		font-family: 'Segoe UI',sans-serif;
+		margin: 135px auto;
+		margin-right: 10px;
+		cursor: default;
+		transition: 1s all;
+}
+::-moz-selection { /* Css Untuk Browser Firefox */
+  background-color: #2e3742;
+  color: #ffffff
+}
+
+::selection {
+  background-color: #2e3742;
+  color: #ffffff
+}
+/* --------------------------------------------------------------- */
+
+#Coment {
+	font-weight: 300;
+	letter-spacing: 3px;
+	font-size: 19px;
+	text-shadow: 0px 0px 5px white;
+	line-height: 50px;
+	transition: 5s all;
+	transition-delay: 3s;
+	cursor: pointer;
+}
+#Coment:hover {
+	font-weight: 300;
+	letter-spacing: 3px;
+	font-size: 19px;
+	text-shadow: 0px 0px 5px white;
+	line-height: 50px;
+}
+#Coment:active {
+	font-weight: 300;
+	letter-spacing: 3px;
+	font-size: 19px;
+	color: #222222;
+	text-shadow: 0px 0px 1px silver;
+	line-height: 50px;
+	transition: 0.1s all;
+}
+
+
+.Username-box {
+	color: gray;
+	border-right:0px;
+	border-left:0px;
+	border-top:0px;
+	border-bottom: 1px solid #888888;
+	line-height: 40px;
+	background: transparent;
+	width: 19%;
+	transition: 0.4s all;
+	transition-delay: 0.2s;
+}
+.Username-box:hover {
+	color: silver;
+	border-bottom: 1px solid #cccccc;
+	background: transparent;
+	transition: 0.3s all;
+}
+.Username-box:focus {
+	color: white;
+	border-bottom: 1px solid #cccccc;
+	background: transparent;
+	transition: 0.1s all;
+}
+
+.Password-box {
+	color: gray;
+	border-right:0px;
+	border-left:0px;
+	border-top:0px;
+	border-bottom: 1px solid #888888;
+	line-height: 40px;
+	background: transparent;
+	width: 19%;
+	transition: 0.4s all;
+	transition-delay: 0.2s;
+}
+.Password-box:hover {
+	color: silver;
+	border-bottom: 1px solid #cccccc;
+	background: transparent;
+	transition: 0.3s all;
+}
+.Password-box:focus {
+	color: white;
+	border-bottom: 1px solid #cccccc;
+	background: transparent;
+	transition: 0.1s all;
+}
+
+.Login-box {
+	color: #111111;
+	letter-spacing: 2px;
+	border: 0px;
+	font-weight: 400;
+	background: #aaaaaa;
+	width: 19%;
+	height: 8%;
+	border-radius: 2px;
+	transition: 0.4s all;
+}
+.Login-box:hover {
+	color: silver;
+	border: 1px solid #aaaaaa;
+	background: transparent;
+	transition: 0.3s all;
+	cursor: help;
+}
+.Login-box:focus {
+	color: #444444;
+	border: 1px solid #555555;
+	background: transparent;
+	transition: 0.1s all;
+}
+
+.Forget-pass {
+	color: gray;
+	letter-spacing: 1px;
+	margin-left: 148px;
+	line-height: 60px;
+	text-decoration: none;
+	font-size: 12px;
+	transition: 0.2s all;
+}
+.Forget-pass:hover {
+	color: silver;
+	text-decoration: underline;
+	transition: 0.4s all;
+}
+
+.Create-Akun {
+	color: gray;
+	letter-spacing: 1px;
+	line-height: 110px;
+	text-decoration: underline;
+	font-size: 12px;
+	transition: 0.6s all;
+}
+.Create-Akun:hover {
+	color: silver;
+	text-decoration: underline;
+	transition: 0.4s all;
+}
+
+.abouts {
+	color: gray;
+	letter-spacing: 1px;
+	line-height: 92px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+	font-size: 12px;
+	transition: 0.6s all;
+}
+.abouts:hover {
+	color: silver;
+	text-decoration: none;
+	transition: 0.4s all;
+}
