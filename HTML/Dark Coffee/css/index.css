@@ -1,0 +1,184 @@
+/* --------------------------------------------------------------- */
+body {
+		background: #060606;
+		background-image: url(../img/bg-pages.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+		cursor: default;
+		transition: 1s all;
+}
+html {
+		color: white;
+		font-family: 'Segoe UI',sans-serif;
+		margin: 70px auto;
+		margin-right: 10px;
+		cursor: default;
+		transition: 1s all;
+}
+::-moz-selection { /* Css Untuk Browser Firefox */
+  background-color: #2e2727;
+  color: #ffffff
+}
+
+::selection {
+  background-color: #2e2727;
+  color: #ffffff
+}
+/* --------------------------------------------------------------- */
+
+fieldset {
+    background-color: rgba(23,18,16,0.9);
+    width: 23%;
+    height: 79%;
+    border: 1px solid transparent;
+    border-radius: 9px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 6.19);
+}
+img.avatar {
+	border-radius: 0%;
+	width: 50%;
+	transition: 0.8s all;
+}
+img.avatar:hover {
+	border-radius: 0%;
+	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 3.19);
+	transition: 0.5s all;
+}
+img.avatar:active {
+	border-radius: 0%;
+	width: 46%;
+	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 6.19);
+	transition: 0.1s all;
+}
+
+.Coment {
+	color: silver;
+	font-weight: 300;
+	letter-spacing: 0.6px;
+	font-size: 11px;
+	line-height: 120px;
+	font-family: 'Nirmala UI',sans-serif;
+	transition: 5s all;
+}
+
+.Username-box {
+	color: #6d6d6d;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom: 1px solid #888888;
+	line-height: 40px;
+	background: transparent;
+	width: 69%;
+	transition: 0.4s all;
+	transition-delay: 0.2s;
+}
+.Username-box:hover {
+	color: #916246;
+	border-bottom: 1px solid #593620;
+	background: transparent;
+	transition: 0.3s all;
+}
+.Username-box:focus {
+	color: white;
+	border-bottom: 1px solid #422c25;
+	background: transparent;
+	transition: 0.1s all;
+}
+
+.Password-box {
+	color: #6d6d6d;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom: 1px solid #888888;
+	line-height: 40px;
+	background: transparent;
+	width: 69%;
+	transition: 0.4s all;
+	transition-delay: 0.2s;
+}
+.Password-box:hover {
+	color: #916246;
+	border-bottom: 1px solid #593620;
+	background: transparent;
+	transition: 0.3s all;
+}
+.Password-box:focus {
+	color: white;
+	border-bottom: 1px solid #422c25;
+	background: transparent;
+	transition: 0.1s all;
+}
+
+.Login-box {
+	color: #cccccc;
+	letter-spacing: 1px;
+	border: 0px;
+	font-weight: 400;
+	background: #452e20;
+	width: 69%;
+	height: 8%;
+	border-radius: 32px;
+	transition: 0.9s all;
+}
+.Login-box:hover {
+	color: silver;
+	border: 0px solid #aaaaaa;
+	background: #5c3a26;
+	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.3), 0 6px 12px 0 rgba(0, 0, 0, 0.12);
+	transition: 0.5s all;
+	cursor: pointer;
+
+}
+.Login-box:active {
+	color: #444444;
+	background: #2b1d14;
+	transition: 0.1s all;
+}
+
+.Forget-pass {
+	color: gray;
+	letter-spacing: 0.4px;
+	margin-left: 5px;
+	line-height: 60px;
+	text-decoration: none;
+	font-size: 12px;
+	transition: 0.3s all;
+}
+.Forget-pass:hover {
+	color: silver;
+	text-decoration: underline;
+	transition: 0.4s all;
+}
+
+.Create-Akun {
+	color: gray;
+	letter-spacing: 1px;
+	line-height: 110px;
+	text-decoration: underline;
+	font-size: 12px;
+	transition: 0.6s all;
+}
+.Create-Akun:hover {
+	color: silver;
+	text-decoration: underline;
+	transition: 0.4s all;
+}
+
+.abouts {
+	color: gray;
+	letter-spacing: 1px;
+	line-height: 92px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+	font-size: 12px;
+	transition: 0.6s all;
+}
+.abouts:hover {
+	color: silver;
+	text-decoration: none;
+	transition: 0.4s all;
+}
