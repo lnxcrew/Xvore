@@ -1,0 +1,172 @@
+/* --------------------------------------------------------------- */
+body {
+          background: #0d0d0d;
+          background-repeat: no-repeat;
+          cursor: default;
+  }
+  html {
+          color: silver;
+          font-family: 'Segoe UI',sans-serif;
+          font-weight: 400;
+          margin: 50px auto;
+  }
+  ::-moz-selection { /* Css Untuk Browser Firefox */
+  background-color: #2e3742;
+  color: #ffffff
+  }
+
+::selection {
+  background-color: #2e3742;
+  color: #ffffff
+  }
+  /* --------------------------------------------------------------- */
+  
+  .Rootex {
+    color: gray;
+    font-family: 'Segoe UI',sans-serif;
+    font-weight: 300;
+    letter-spacing: 23px;
+    font-size: 30px;
+    margin-left: 23px;
+  }
+  .Coment {
+    color: gray;
+    font-family: 'Segoe UI',sans-serif;
+    font-weight: 400;
+    letter-spacing: 3px;
+    line-height: 30px;
+    font-size: 18px;
+  }
+  fieldset {
+    background: #0e1517;
+    width: 22%;
+    height: 57%;
+    border: 1px solid #1c2229;
+  }
+
+
+
+  /* Username CSS3 Style - by Pku.LNX# */
+  input[type=username] {
+    color: gray;
+    background: transparent;
+    border-bottom: 2px solid #232f38;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 250px;
+    height: 30px;
+    transition: 0.5s all;
+  }
+  input[type=username]:hover {
+    color: silver;
+    background: transparent;
+    border-bottom: 2px solid #888888;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 250px;
+    height: 30px;
+    transition: 0.3s all;
+  }
+  input[type=username]:active {
+    color: white;
+    background: transparent;
+    border-bottom: 2px solid #444444;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 250px;
+    height: 30px;
+  }
+
+  /* Password CSS3 Style - by Pku.LNX# */
+  input[type=password] {
+    color: gray;
+    background: transparent;
+    border-bottom: 2px solid #232f38;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 250px;
+    height: 30px;
+    transition: 0.5s all;
+  }
+  input[type=password]:hover {
+    color: silver;
+    background: transparent;
+    border-bottom: 2px solid #888888;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 250px;
+    height: 30px;
+    transition: 0.3s all;
+  }
+  input[type=password]:active {
+    color: white;
+    background: transparent;
+    border-bottom: 2px solid #444444;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 250px;
+    height: 30px;
+  }
+
+  /* Submit Button CSS3 Style - by Pku.LNX# */
+  input[type=submit] {
+    color: gray;
+    background: transparent;
+    border: 1px solid #232f38;
+    width: 250px;
+    height: 36px;
+    font-family: 'Calibri',sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    transition: 0.5s all;
+  }
+  input[type=submit]:hover {
+    color: silver;
+    background: #1b2a2e;
+    border: 1px solid #28303b;
+    width: 250px;
+    height: 36px;
+    transition: 0.3s all;
+  }
+  input[type=submit]:active {
+    color: gray;
+    background: #121c1f;
+    border: 1px solid #1b2629;
+    letter-spacing: 2px;
+    width: 250px;
+    height: 36px;
+
+  }
+
+
+
+  a {
+    margin-left: 9px;
+    margin-right: 11px;
+  }
+  a:hover {
+    margin-left: 9px;
+    margin-right: 11px;
+    border-bottom: 1px solid #444444;
+    transition: 0.3s all;
+  }
+  .forget {
+    color: gray;
+    font-size: 13px;
+    text-decoration: none;
+  }
+  .forget:hover {
+    color: silver;
+    text-decoration: underline;
+  }
+  .forget:active {
+    color: silver;
+    font-size: 11px;
+    text-decoration: underline;
+  }
