@@ -9,6 +9,7 @@ ditiap-tiap Komputer/Laptop akan berbeda Resolusi Layar nya maka dari itu jika a
 - Rootex
 - Access Login Black Room
 - Dark Coffee
+- Flat Login
 
 
 --------------
@@ -17,7 +18,7 @@ ditiap-tiap Komputer/Laptop akan berbeda Resolusi Layar nya maka dari itu jika a
 ![image](https://raw.githubusercontent.com/PkuLNX/Xvore/master/HTML/screenshot/rtx.png)
 ![image](https://raw.githubusercontent.com/PkuLNX/Xvore/master/HTML/screenshot/acs.png)
 ![image](https://raw.githubusercontent.com/PkuLNX/Xvore/master/HTML/screenshot/dcf.png)
-
+![image](https://raw.githubusercontent.com/PkuLNX/Xvore/master/HTML/screenshot/flg.png)
 --------------
 > Author : Pku.LNX#
 
