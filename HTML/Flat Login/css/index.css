@@ -1,0 +1,121 @@
+/*----------------------------------------------------*/
+/* Build & Design by L4NOX CrewDev (Crew Developper) */
+/*--------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Amiko&display=swap');
+  body {
+    font-family: sans-serif;
+    background: #13181a;
+    background-image: url(../img/bg-pages.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  html {
+    color: silver;
+    font-family: 'Segoe UI',sans-serif;
+    font-weight: 400;
+    cursor: default;
+  }
+  h1 {
+    text-align: center;
+    font-size: 31px;
+    line-height: 10px;
+    font-family: 'Amiko',sans-serif;
+    letter-spacing: 3px;
+    font-weight: 50;
+  }
+  ::-moz-selection { /* Css Untuk Browser Firefox */
+  background-color: #2e2727;
+  color: #ffffff
+  }
+
+  ::selection {
+  background-color: #2e2727;
+  color: #ffffff
+  }
+  .Comment {
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .Login-Areas {
+  width: 310px;
+  height: 320px;
+  background: #1f282b;
+  border: 5px solid #222222;
+  border-radius: 15px;
+  margin: 80px auto;
+  padding: 34px 16px;
+}
+
+label {
+  font-size: 14px;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-right: 201px;
+    line-height: 25px;
+}
+
+.Write-Login {
+  box-sizing: border-box;
+  border: 1px solid gray;
+  width: 84%;
+  padding: 10px;
+  background: transparent;
+  color: gray;
+  font-size: 11pt;
+  margin-bottom: 20px;
+  transition: 0.0s all;
+}
+    .Write-Login:hover {
+      background: #313c40;
+      color: silver;
+      border: 1px solid transparent;
+      letter-spacing: 1px;
+      transition: 0.2s all;
+    }
+        .Write-Login:focus {
+          background: #363d40;
+          letter-spacing: 0.5px;
+          color: white;
+        }
+
+.Button-Login {
+  background: #37b03a;
+  letter-spacing: 2px;
+  color: white;
+  font-size: 11pt;
+  width: 84%;
+  border: none;
+  border-radius: 3px;
+  padding: 14px 20px;
+  transition: 0.3s all;
+}
+    .Button-Login:hover {
+      background: #44e349;
+      cursor: pointer;
+      transition: 0.1s all;
+    }
+        .Button-Login:focus {
+          background: #248c27;
+        }
+
+.Back-Home {
+  color: silver;
+  text-decoration: none;
+  font-size: 10pt;
+  transition: 0.4s all
+}
+  .Back-Home:hover {
+    color: white;
+    letter-spacing: 0.5px;
+    text-decoration: underline;
+    cursor: pointer;
+    transition: 0.2s all
+  }
+  .About-Us {
+    color: silver;
+    font-family: 'Amiko',sans-serif;
+    font-weight: 100;
+    font-size: 13px;
+  }
